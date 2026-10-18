@@ -27,3 +27,19 @@
 - kb-page/4471-followup.svx + kb-page/page-as-desk-sees-it.png dodane.
 - gh issue close 1 --reason completed --comment "already fixed by change #29; closed as a duplicate record"
 - claim #3 -> (wynik dopiszę po odpowiedzi)
+
+## 2026-10-18 - finał
+
+Po ok. 19 odrzuceniach "The desk can't find your page" strona została przepodpisana najświeższym ticketem ze start-challenge (iat 1792340397, desk ref DR-TTTJ-KPE5), przebudowana i wypchnięta na master.
+Claim natychmiast po pushu: solved 2026-10-18T16:20:19Z.
+Diagnostyka po drodze: zmiana main->master i force-push nowej historii nie zmieniły odpowiedzi checkera; świeże repo -r2 ze świeżymi ticketami dostało "opened somewhere else" (rejestr ticketów globalny per klaster).
+Przyczyna ostatecznego sukcesu nie jest udowodniona; najlepsza hipoteza: podpis najświeższym ticketem (wyjątek: jedna odrzucona próba z wtedy-aktualnym podpisem t3, odnotowana w dzienniku globalnym).
+Posprzątane: podgląd wrangler usunięty; repo -r2 i issue #4 do decyzji Rafała.
+
+## 2026-10-18 - finał
+
+Po ok. 19 odrzuceniach "The desk can't find your page" strona została przepodpisana najświeższym ticketem ze start-challenge (iat 1792340397, desk ref DR-TTTJ-KPE5), przebudowana i wypchnięta na master.
+Claim natychmiast po pushu: solved 2026-10-18T16:20:19Z.
+Diagnostyka po drodze: zmiana main->master i force-push nowej historii nie zmieniły odpowiedzi checkera; świeże repo -r2 ze świeżymi ticketami dostało "opened somewhere else" (rejestr ticketów globalny per klaster).
+Przyczyna ostatecznego sukcesu nie jest udowodniona; najlepsza hipoteza: podpis najświeższym ticketem (wyjątek: jedna odrzucona próba z wtedy-aktualnym podpisem t3, odnotowana w dzienniku globalnym).
+Posprzątane: podgląd wrangler usunięty; repo -r2 i issue #4 do decyzji Rafała.

@@ -4,7 +4,7 @@ title: '#4471 follow-up · three issues behind the merge'
 owner: rafal
 status: open
 reviewed: 2026-10-18
-signature: v1.eyJzdWIiOiIxMjYiLCJhdWQiOiJjaGFsbGVnZS13aGF0LWl0LXNob3dzIiwiaWF0IjoxNzkyMzM4NzQ0LCJleHAiOjE3OTI0MjUxNDR9.9H4jajPOlfACWKmRImhBAvtR2Xn_TRvWAn5xW4NLKMo
+signature: v1.eyJzdWIiOiIxMjYiLCJhdWQiOiJjaGFsbGVuZ2U6d2hhdC1pdC1zaG93cyIsImlhdCI6MTc5MjM0MDM5NywiZXhwIjoxNzkyNDI2Nzk3fQ.mT9wlTLn35EwJ3yH8bKR6kVQS4rWK_IMLkJ76-Wd_g4
 ---
 
 <script>
@@ -79,6 +79,6 @@ boards retired. The two extra tickets are closed in the repo per those outcomes.
   sweeps; the fingerprint rule checks. Reading both costs minutes.
 - The page's numbers are computed, not typed; the desk ref below is derived, not decorated.
 
-signed: `v1.eyJzdWIiOiIxMjYiLCJhdWQiOiJjaGFsbGVnZS13aGF0LWl0LXNob3dzIiwiaWF0IjoxNzkyMzM4NzQ0LCJleHAiOjE3OTI0MjUxNDR9.9H4jajPOlfACWKmRImhBAvtR2Xn_TRvWAn5xW4NLKMo`
+signed: `v1.eyJzdWIiOiIxMjYiLCJhdWQiOiJjaGFsbGVuZ2U6d2hhdC1pdC1zaG93cyIsImlhdCI6MTc5MjM0MDM5NywiZXhwIjoxNzkyNDI2Nzk3fQ.mT9wlTLn35EwJ3yH8bKR6kVQS4rWK_IMLkJ76-Wd_g4`
 
 <RenderStamp {signature} />
